@@ -2,5 +2,6 @@ I am currently working on co-founding ORI with [@mettafive](https://github.com/m
 
 Other projects on my plate:
 
+- Science communication for God Conjecture (incubated within ORI) - https://github.com/SASenchal/God-Conjecture
 - Open Memetics Github (https://github.com/DefenderOfBasic/open-memetics-institute/) - building a "canon" for an open memetics community
 - Anatomy of an Internet Argument (https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument) - a long running field experiment in pro-social cultural engineering
