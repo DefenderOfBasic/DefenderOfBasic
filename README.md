@@ -5,7 +5,7 @@ Projects on my plate:
 - [ORI website redesign + pitch](https://github.com/Open-Research-Institute/open-research-institute.github.io/issues/34) for fundraising for at least 2 full-time ORI staff for a year 
 - Science communication for God Conjecture (incubated within ORI) - https://github.com/SASenchal/God-Conjecture
 - Open Memetics Github (https://github.com/DefenderOfBasic/open-memetics-institute/) - building a "canon" for an open memetics community
-- Anatomy of an Internet Argument (https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument) - a long running field experiment in pro-social cultural engineering
+- Anatomy of an Internet Argument (https://github.com/DefenderOfBasic/in-good-faith-handbook) - a long running field experiment in pro-social cultural engineering
 
 Backburner:
 
