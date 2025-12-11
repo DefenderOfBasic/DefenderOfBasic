@@ -1,15 +1,9 @@
-I am currently working on co-founding ORI to be an umbrella org under which all of my work can fit. 
+Currently working on:
 
-Projects on my plate:
+- [Anatomy of an Internet Argument](https://github.com/DefenderOfBasic/in-good-faith-handbook?tab=readme-ov-file#-anatomy-of-an-internet-argument-) essay series & book.
+- [Writing down the social protocol for ORI](https://defenderofthebasic.substack.com/p/good-morning-ori) & maintaining that network.
+- [PostScope](github.com/MateusMarta/postscope) - design & testing.
 
-- [ORI website redesign + pitch](https://github.com/Open-Research-Institute/open-research-institute.github.io/issues/34) for fundraising for at least 2 full-time ORI staff for a year 
-- Science communication for God Conjecture (incubated within ORI) - https://github.com/SASenchal/God-Conjecture
-- Open Memetics Github (https://github.com/DefenderOfBasic/open-memetics-institute/) - building a "canon" for an open memetics community
-- Anatomy of an Internet Argument (https://github.com/DefenderOfBasic/in-good-faith-handbook) - a long running field experiment in pro-social cultural engineering
+Open questions:
 
-Backburner:
-
-- [ORI onboarding book](https://github.com/Open-Research-Institute/onboarding) - this is an "open source book". I want to popularize open source books, and this one is kind of the "basic shared truths" that everyone in ORI shares (with the idea that, as new people join, they glance at all the claims, and if there is one they disagree with, they can go in and edit it on GitHub and ORI debates it)
-- Discourse mapping tools
-  - https://github.com/MateusMarta/postscope
-  - https://github.com/DefenderOfBasic/good-and-evil-concepts
+- What does the current human memome look like? (answering this question means [creating a graph like this](https://www.youtube.com/watch?v=8Wixy4aIY9Q) for all the networks that you interact with)
