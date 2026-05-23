@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "ORI/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,9 +172,9 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "index.md",
     "ORI/index.md",
     "ORI/TODO.md",
-    "index.md",
     "Netwar Con (September)/notes.md",
     "Netwar Con (September)",
     "Anatomy of an Internet Argument",
