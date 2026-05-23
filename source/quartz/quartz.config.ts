@@ -83,6 +83,8 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        rssLimit: 1000000000, // 1 billion
+        rssFullHtml: false, // we override with the source markdown 
       }),
       Plugin.Assets(),
       Plugin.Static(),
