@@ -7,7 +7,7 @@ on:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  THEME_NAME: aura
+  THEME_NAME: aura # used only if "Fetch Quartz theme" is on
 
 jobs:
   build:
@@ -27,9 +27,9 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: ${{ runner.os }}-node-
 
-      - name: Fetch Quartz Theme
-        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
-        working-directory: ./source/quartz
+      # - name: Fetch Quartz Theme
+      #   run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
+      #   working-directory: ./source/quartz
 
       - name: Build Quartz
         run: |
