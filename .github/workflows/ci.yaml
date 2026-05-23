@@ -25,6 +25,8 @@ jobs:
 
       - name: Build Quartz
         run: |
+          ls
+          pwd
           npm install
           chmod +x ./quartz/bootstrap-cli.mjs
           npx quartz build --directory ../defenders-mind --bundleInfo
