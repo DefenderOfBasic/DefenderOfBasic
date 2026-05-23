@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/DefenderOfBasic/DefenderOfBasic/",
       "ORI": "https://openresearchinstitute.org/",
+      RSS: "https://defenderofbasic.github.io/DefenderOfBasic/index.xml"
     },
   }),
 }
