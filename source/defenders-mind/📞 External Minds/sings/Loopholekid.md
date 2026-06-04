@@ -1,0 +1,41 @@
+
+"building gov tech"
+
+----
+
+https://en.wikipedia.org/wiki/Frieren -> hiding her mana // hiding her power level 
+https://en.wikipedia.org/wiki/The_Fabelmans
+
+**"narcissistic glow"**
+	memory bank of what happened last time they handed power
+
+**"inductive phrases"** -> 
+	transduction coherence broadcast
+	what3words!!! for noosphere
+
+$3 million handwriting recognition -> "stale shitty deals" 
+
+
+"corrosive"
+
+
+- would i feel good bringing a kid into this context
+- "what are the core values we can agree on explicitly, that we can count on as a spine"
+	- and why are you doing all this
+
+"grounding layer // otherwise psychotic breaks" "no repression" // "cannot perform the primitive repression" // "don't have capacity to dissipate" 
+
+"minimum viable structure" -> 
+
+### interpersonal network capable of doing the stress dissipation
+
+"prosocial infinite game - live player types"
+
+"syncing between geographically disparate people" -> routing capability through stress dissipation mesh 
+
+
+- how to converge on truth, without starting a retaliation spiral 
+- trying to do it in Toronto - "2 layer gov problem"
+- Ontario gov, Toronto city gov
+- "stitching together fabric between these 2 layers" // civic tech 
+

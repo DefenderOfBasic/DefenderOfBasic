@@ -1,9 +1,9 @@
-# Defender's mind
+# 🧠 Defender's public mind
 
-This journal captures everything & everyone that is currently on my mind, and how that changes over time.
+This log reflects what is "currently on my mind". Forked from the [ORI Public Mind](https://github.com/Open-Research-Institute/public-mind-template#public-mind-template) template.
 
 https://defenderofbasic.github.io/DefenderOfBasic/
 
------
+---
 
-Run `source/local-build.sh` to test the pipeline locally. The generated files are in `source/quartz/public`. 
+- To adapt the template I had to change `local-build.sh`, `quartz.config.ts`, and `quartz.layout.ts` (to replace public-mind-template with defenders-mind)

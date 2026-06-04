@@ -23,3 +23,7 @@ npx quartz build --directory "$VAULT_DIR" --bundleInfo
 
 echo ""
 echo "✅ Done! Run 'http-server -c-1 quartz/public' to preview."
+
+# can also run it for dev purposes with
+# pnpm run serve
+# inside of `quartz`

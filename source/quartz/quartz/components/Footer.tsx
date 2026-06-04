@@ -24,6 +24,11 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <p>
+           © Ø CC0 1.0 - Public Domain
+        </p>
+
+        {/* <a href="https://creativecommons.org/publicdomain/zero/1.0/"> */}
       </footer>
     )
   }
