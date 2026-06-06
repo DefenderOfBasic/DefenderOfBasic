@@ -1,8 +1,12 @@
 🧠 Public mind: https://github.com/Kat-Stack/Kat-Stack 
 
 
+---
 
+#### Faraday (Caleb / Mimi)
 
+- https://x.com/alphamemelabz
+- Reach him on Whatsapp
 
 ----
 

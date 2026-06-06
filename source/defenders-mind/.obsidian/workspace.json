@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "a19830e24e4274b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📞 External Minds/sings/🌳 Andrea.md",
+                "file": "Our Last Psyop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌳 Andrea"
+              "title": "Our Last Psyop"
             }
           },
           {
-            "id": "1e4cf61878bd3c68",
+            "id": "238b297223371090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📞 External Minds/sings/👾 Ian Lilley.md",
+                "file": "ORI 2.0 <-> KayOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "👾 Ian Lilley"
+              "title": "ORI 2.0 <-> KayOS"
             }
           }
         ],
@@ -185,42 +185,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e4cf61878bd3c68",
+  "active": "238b297223371090",
   "lastOpenFiles": [
-    "📞 External Minds/sings/index.md",
-    "📞 External Minds/plurs/👾 Newgrounds.md",
-    "📞 External Minds/sings/👾 Ian Lilley.md",
-    "📞 External Minds/sings/⭕️ Joshua.md",
-    "📞 External Minds/sings/⭕️ Benjamin Isaac.md",
-    "📞 External Minds/sings/👾 Nick - TAG.md",
-    "📞 External Minds/sings/🌳 Andrea.md",
-    "📞 External Minds/sings/⭕️ Matthew.md",
+    "Our Last Psyop.md",
+    "_/Presentation Night.md",
     "📞 External Minds/sings/⭕️ Katt.md",
-    "📞 External Minds/🗂️ archived-minds/Loopholekid.md",
-    "📞 External Minds/🗂️ archived-minds/💡 Nosilverv.md",
-    "📞 External Minds/🗂️ archived-minds/⛩️ Sam Senchal.md",
-    "📞 External Minds/plurs/🌳 Ithaca NY.md",
-    "📞 External Minds/🗂️ archived-minds",
+    "📞 External Minds/sings/💡 Matthew.md",
+    "ORI 2.0 <-> KayOS.md",
     "index.md",
     "🍺 Cup.md",
-    "⭕️ ORI Entry Point.md",
-    "📰 Daily Notes/2026-06-05.md",
-    "ORI/TODO.md",
-    "ORI/index.md",
-    "📰 Daily Log.md",
-    "📰 Daily Notes",
+    "📞 External Minds/sings/index.md",
+    "📞 External Minds/plurs/🌳 Ithaca NY.md",
+    "_",
+    "📞 External Minds/sings/💼 Ben G.md",
+    "📞 External Minds/sings/💼 David - KayOS.md",
+    "📞 External Minds/sings/💡 Joshua.md",
+    "📞 External Minds/sings/Ialdabaoth.md",
+    "📞 External Minds/sings/⭕️ Benjamin Isaac.md",
+    "📞 External Minds/sings/⭕️ Raphael.md",
+    "📞 External Minds/🗂️ archived-minds/💡 Nosilverv.md",
+    "📞 External Minds/sings/💡 Faraday (Caleb, Mimi).md",
+    "📞 External Minds/sings/🌳 Andrea.md",
+    "Untitled.canvas",
     "📞 External Minds/plurs/⬟ Ogi Ogas.md",
-    "📞 External Minds/index.md",
+    "📞 External Minds/plurs/👾 Newgrounds.md",
     "📞 External Minds/plurs/🔦 Ronen V.md",
+    "⭕️ ORI Entry Point.md",
+    "📞 External Minds/sings/👾 Ian Lilley.md",
+    "📞 External Minds/sings/👾 Nick - TAG.md",
+    "📞 External Minds/🗂️ archived-minds/Loopholekid.md",
+    "📞 External Minds/🗂️ archived-minds/⛩️ Sam Senchal.md",
+    "📞 External Minds/🗂️ archived-minds",
+    "📰 Daily Notes",
     "📞 External Minds/sings",
     "📞 External Minds/plurs",
-    "Netwar Con (September)/notes.md",
     "Netwar Con (September)",
     "Anatomy of an Internet Argument",
     "📞 External Minds",
     "ORI",
-    "category-folder/Some note.md",
-    "category-folder/index.md",
     "category-folder"
   ]
 }

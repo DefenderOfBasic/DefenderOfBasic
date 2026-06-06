@@ -1,2 +1,4 @@
 - Mo (https://x.com/0xmmo)
-- 
+- Ben G
+- Tasshin
+- Malcolm / Morphenius 
