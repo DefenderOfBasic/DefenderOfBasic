@@ -1,8 +1,8 @@
-- Ithaca
+
 - https://context101.substack.com/about
 - https://www.youtube.com/@ourcrisesincontext
 
-Upcoming:
+---
 
 - June 3rd Plant Parenthood (Presentation Night spinoff) at Soil Factory
 - "Are we okay" Ithaca event series - https://www.milkweedpsych.com/service-page/are-we-okay

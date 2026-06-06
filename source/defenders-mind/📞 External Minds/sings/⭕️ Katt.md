@@ -1,15 +1,13 @@
-- https://x.com/TheVatStack
-- https://github.com/Kat-Stack/
+🧠 Public mind: https://github.com/Kat-Stack/Kat-Stack 
 
-Main projects:
-
-- [Netwar Con](https://github.com/Kat-Stack/netwar-con)
-- "Virts" social network - https://x.com/VirtSocial
 
 
 
 
 ----
+
+- "Virts" social network - https://x.com/VirtSocial
+- - https://x.com/TheVatStack
 
 "team psyop hackathon"
 

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "📞 External Minds/sings/🌳 Andrea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "🌳 Andrea"
+            }
+          },
+          {
+            "id": "1e4cf61878bd3c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📞 External Minds/sings/👾 Ian Lilley.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "👾 Ian Lilley"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,19 +185,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "1e4cf61878bd3c68",
   "lastOpenFiles": [
-    "⭕️ ORI Entry Point.md",
-    "ORI/TODO.md",
-    "ORI/index.md",
+    "📞 External Minds/sings/index.md",
+    "📞 External Minds/plurs/👾 Newgrounds.md",
+    "📞 External Minds/sings/👾 Ian Lilley.md",
+    "📞 External Minds/sings/⭕️ Joshua.md",
+    "📞 External Minds/sings/⭕️ Benjamin Isaac.md",
+    "📞 External Minds/sings/👾 Nick - TAG.md",
+    "📞 External Minds/sings/🌳 Andrea.md",
+    "📞 External Minds/sings/⭕️ Matthew.md",
+    "📞 External Minds/sings/⭕️ Katt.md",
+    "📞 External Minds/🗂️ archived-minds/Loopholekid.md",
+    "📞 External Minds/🗂️ archived-minds/💡 Nosilverv.md",
+    "📞 External Minds/🗂️ archived-minds/⛩️ Sam Senchal.md",
+    "📞 External Minds/plurs/🌳 Ithaca NY.md",
+    "📞 External Minds/🗂️ archived-minds",
     "index.md",
     "🍺 Cup.md",
+    "⭕️ ORI Entry Point.md",
+    "📰 Daily Notes/2026-06-05.md",
+    "ORI/TODO.md",
+    "ORI/index.md",
     "📰 Daily Log.md",
     "📰 Daily Notes",
     "📞 External Minds/plurs/⬟ Ogi Ogas.md",
     "📞 External Minds/index.md",
     "📞 External Minds/plurs/🔦 Ronen V.md",
-    "📞 External Minds/sings/⭕️ ⛩️ Sam Senchal.md",
     "📞 External Minds/sings",
     "📞 External Minds/plurs",
     "Netwar Con (September)/notes.md",
