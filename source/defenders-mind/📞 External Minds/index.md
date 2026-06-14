@@ -10,7 +10,6 @@ https://github.com/RAPHIHELL/Raphihell
 https://github.com/Kat-Stack/Kat-Stack 
 
 - Matthew "Love Symposium"
-https://discord.com/channels/1344300408893345863/1505588498596630751 
 [https://substack.com/@culturaltechnology/notes](https://substack.com/@culturaltechnology/notes "https://substack.com/@culturaltechnology/notes")
 
 - Ian
