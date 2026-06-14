@@ -1,5 +1,10 @@
 
-_TODO: finish adding my budget here / link to an actual spreadsheet with all the line items? Or generate that from the Chase bank account?_ 
+Currently on a $7k per month contract from "Commenta Projects" that funds my open source social engineering work, in exchange for scouting investment opportunities for them & giving them a heads up of anything relevant in the territories I monitor & operate in. 
+
+Additionally I have a budget of $1k - $5k per month to invest in early stage projects or people.
+
+<span style="color:red">Current need:</span> sponsors for the [September Event](https://defenderofthebasic.substack.com/p/the-last-psyop) 
+
 
 ### 2026
 
@@ -24,4 +29,8 @@ Spent:
 - $50k from Kanro
 - $3.5k Analogue
 
-Spent ~$50k in grants 
+Spent ~$50k in micro grants ($1k to $5k)
+
+### 2024 & prior
+
+Was working full-time day job at Snapchat. 

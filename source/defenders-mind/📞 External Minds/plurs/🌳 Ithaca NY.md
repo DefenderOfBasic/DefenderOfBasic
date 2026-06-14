@@ -1,5 +1,5 @@
 - Ithaca Social Circle
-- [[Presentation Night]]
+- [[⭕️ June 16 - Presentation Night]]
 
 
 

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "3654e1d3e3705a6b",
         "type": "tabs",
         "children": [
           {
-            "id": "a19830e24e4274b9",
+            "id": "e43b24b9a94710b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Our Last Psyop.md",
+                "file": "🍺 Cup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Our Last Psyop"
-            }
-          },
-          {
-            "id": "238b297223371090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORI 2.0 <-> KayOS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ORI 2.0 <-> KayOS"
+              "title": "🍺 Cup"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 335.5004348754883
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -185,15 +170,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "238b297223371090",
+  "active": "e43b24b9a94710b4",
   "lastOpenFiles": [
-    "Our Last Psyop.md",
-    "_/Presentation Night.md",
+    "index.md",
+    "🎓 ORI Entry Point.md",
+    "📞 External Minds/🗂️ archived-minds/⛩️ Sam Senchal.md",
+    "🅱️ - Open Source Social Engineering.md",
+    "🅰️ - Highest Ranked Open Live Player.md",
+    "📰 Daily Notes/2026-06-12.md",
+    "⭕️ ORI 2.0.md",
+    "⭕️ KayOS.md",
+    "⭕️ Our Last Psyop (September Event).md",
+    "⭕️ June 16 - Presentation Night.md",
+    "🍺 Cup.md",
+    "📰 Daily Notes/Untitled.md",
+    "📞 External Minds/sings/👾 Nick - TAG.md",
     "📞 External Minds/sings/⭕️ Katt.md",
     "📞 External Minds/sings/💡 Matthew.md",
-    "ORI 2.0 <-> KayOS.md",
-    "index.md",
-    "🍺 Cup.md",
     "📞 External Minds/sings/index.md",
     "📞 External Minds/plurs/🌳 Ithaca NY.md",
     "_",
@@ -207,14 +200,6 @@
     "📞 External Minds/sings/💡 Faraday (Caleb, Mimi).md",
     "📞 External Minds/sings/🌳 Andrea.md",
     "Untitled.canvas",
-    "📞 External Minds/plurs/⬟ Ogi Ogas.md",
-    "📞 External Minds/plurs/👾 Newgrounds.md",
-    "📞 External Minds/plurs/🔦 Ronen V.md",
-    "⭕️ ORI Entry Point.md",
-    "📞 External Minds/sings/👾 Ian Lilley.md",
-    "📞 External Minds/sings/👾 Nick - TAG.md",
-    "📞 External Minds/🗂️ archived-minds/Loopholekid.md",
-    "📞 External Minds/🗂️ archived-minds/⛩️ Sam Senchal.md",
     "📞 External Minds/🗂️ archived-minds",
     "📰 Daily Notes",
     "📞 External Minds/sings",
