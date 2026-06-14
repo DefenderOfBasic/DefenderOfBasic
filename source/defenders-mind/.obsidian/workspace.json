@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "⭕️ June 16 - Presentation Night"
             }
-          },
-          {
-            "id": "6f6ed8562ae43d39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backlog/Anatomy of an Internet Argument.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anatomy of an Internet Argument"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,17 +170,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f6ed8562ae43d39",
+  "active": "d9817bb9cd7172bc",
   "lastOpenFiles": [
     "⭕️ The September Event.md",
-    "Backlog/Anatomy of an Internet Argument.md",
-    "Backlog/⭕️ Prosocial Engineering Lab.md",
-    "Backlog/⭕️ ORI 2.0.md",
+    "index.md",
     "⭕️ June 16 - Presentation Night.md",
+    "Backlog/⭕️ Move or Die Lawsuit.md",
+    "Backlog/⭕️ ORI 2.0.md",
+    "Backlog/⚖️ Anatomy of an Internet Argument.md",
+    "Backlog/⭕️ Prosocial Engineering Lab.md",
     "🎓 ORI Entry Point.md",
     "🍺 Cup.md",
     "📞 External Minds/index.md",
-    "index.md",
     "⭕️ KayOS.md",
     "Backlog",
     "📰 Daily Notes/2026-06-12.md",
@@ -213,7 +199,6 @@
     "📞 External Minds/sings/⭕️ Raphael.md",
     "📞 External Minds/sings/🌳 Andrea.md",
     "📞 External Minds/sings/💡 Joshua.md",
-    "📞 External Minds/sings/💡 Matthew.md",
     "_",
     "Untitled.canvas",
     "📞 External Minds/🗂️ archived-minds",
