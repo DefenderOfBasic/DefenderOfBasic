@@ -1,7 +1,7 @@
 (ORI)
 - Benjamin Isaac
 https://x.com/calculastrology
-ouroboroslitherin@protonmail.com
+https://github.com/Benjamin-Isaac-B
 
 - Raphael Lyon
 https://github.com/RAPHIHELL/Raphihell
@@ -16,16 +16,16 @@ https://discord.com/channels/1344300408893345863/1505588498596630751
 - Ian
 https://x.com/ianlilleyt
 
+- Joshua
+https://x.com/workflowsauce
+https://github.com/huttj/moots
+
 - Nosilverv
 https://x.com/nosilverv
 
 - Suntzugi
 https://x.com/suntzugi
 https://substack.com/@suntzugi
-
-- Joshua
-https://x.com/workflowsauce
-https://github.com/huttj/moots
 
 - Professor Fnord
 https://github.com/Ialdabaoth/Ialdabaoth
@@ -57,8 +57,7 @@ https://www.hws.edu/faculty/ristow-benjamin.aspx
 - Park Doing "Rebel Epistemographer"
 https://rebelepistemographer.substack.com/
 
-- Story House Ithaca
-
+- Story House Ithaca / Ithaca Social Circle
 
 ---
 (misc)

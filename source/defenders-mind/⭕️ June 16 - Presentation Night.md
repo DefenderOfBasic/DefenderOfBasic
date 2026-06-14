@@ -10,7 +10,5 @@ Maybe Ben Hummel?
 
 Waitlist: Julian, Amy
 
----
 
-Also the money thing / how much money does it take to run the event?
 
