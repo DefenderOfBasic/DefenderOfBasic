@@ -73,3 +73,7 @@ https://www.linkedin.com/in/rcreativ/
 
 - David Rugg
 https://project.liminality.space/
+
+- 👾 Newgrounds 
+https://omarshehata.newgrounds.com/news/post/1620907
+
