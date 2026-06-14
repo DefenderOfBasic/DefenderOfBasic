@@ -11,12 +11,19 @@ https://github.com/Kat-Stack/Kat-Stack
 - Matthew "Love Symposium"
 https://discord.com/channels/1344300408893345863/1505588498596630751 
 
+- Ian
+https://x.com/ianlilleyt
+
 - Nosilverv
 https://x.com/nosilverv
 
 - Suntzugi
 https://x.com/suntzugi
 https://substack.com/@suntzugi
+
+- Joshua
+https://x.com/workflowsauce
+https://github.com/huttj/moots
 
 - Professor Fnord
 https://github.com/Ialdabaoth/Ialdabaoth
@@ -58,3 +65,6 @@ https://github.com/SASenchal/God-Conjecture
 - Rosano
 https://rosano.ca/blog
 https://www.linkedin.com/in/rcreativ/
+
+- David Rugg
+https://project.liminality.space/
