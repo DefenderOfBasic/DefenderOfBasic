@@ -1,14 +1,5 @@
 _June 16th, 7pm, at Liquid State_ - Theme: 🪞 Reflection 🪞
 
-- Foxy
-- Andrea
-- Karl
-- Omar & the court
-- Rona
-
-Maybe Ben Hummel?
-
-Waitlist: Julian, Amy
-
-
+- Post r/ithaca and in ISC discord 
+- Make my slides 
 
