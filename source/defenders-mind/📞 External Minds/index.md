@@ -1,5 +1,6 @@
 (ORI)
 - Benjamin Isaac
+https://x.com/calculastrology
 ouroboroslitherin@protonmail.com
 
 - Raphael Lyon
@@ -10,6 +11,7 @@ https://github.com/Kat-Stack/Kat-Stack
 
 - Matthew "Love Symposium"
 https://discord.com/channels/1344300408893345863/1505588498596630751 
+[https://substack.com/@culturaltechnology/notes](https://substack.com/@culturaltechnology/notes "https://substack.com/@culturaltechnology/notes")
 
 - Ian
 https://x.com/ianlilleyt
@@ -54,6 +56,9 @@ https://www.hws.edu/faculty/ristow-benjamin.aspx
 
 - Park Doing "Rebel Epistemographer"
 https://rebelepistemographer.substack.com/
+
+- Story House Ithaca
+
 
 ---
 (misc)
