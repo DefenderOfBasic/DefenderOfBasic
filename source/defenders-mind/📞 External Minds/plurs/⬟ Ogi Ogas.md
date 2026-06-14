@@ -1,1 +1,0 @@
-- Stephen Grossberg math class?
