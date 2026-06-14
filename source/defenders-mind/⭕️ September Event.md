@@ -1,4 +1,4 @@
-lastpsyop.com
+https://lastpsyop.com/
 
 - Email people who applied to attend 
 - Get more meat on the game from Katt 
