@@ -6,10 +6,8 @@ _this month's theme: 🪞 Reflection 🪞_
 🎭 Foxy - <span style="color:gray">"On how to convince the mayor to let you make skits about his day to day life"</span>
 🐶 Rona - <span style="color:gray">"How to train anything"</span> <span style="font-size:7px">(dogs? birds? ..humans??)</span>
 🌱 Andrea - <span style="color:gray">"What I learned running 'Plant Parenthood' pres night at the Soil Factory"</span>
-
-_(+ a couple other potential talks on the waitlist)_
-
-<span style="font-size:8px"><i>(I also really want to give an update on my "Gimme Coffee Presentation" because it triggered the action I hoped it would, plus I got to talk to the baristas, the manager of the store, and the board, and they all heard different versions of the story that I told in the April pres night)</i></span>
+<p style="font-size:10px;"><i>(+ a couple other potential talks on the waitlist)</i></p>
+<p style="font-size:10px;"><i>(I also really want to give an update on my "Gimme Coffee Presentation" because it triggered the action I hoped it would, plus I got to talk to the baristas, the manager of the store, and the board, and they all heard different versions of the story that I told on stage in the April pres night)</i></span>
 
 
 
