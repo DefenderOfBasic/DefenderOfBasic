@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog/⭕️ Prosocial Engineering Lab.md",
+                "file": "📞 External Minds/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⭕️ Prosocial Engineering Lab"
+              "title": "index"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Rap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,6 +202,7 @@
   },
   "active": "0436bfcc555966bc",
   "lastOpenFiles": [
+    "Backlog/⭕️ Prosocial Engineering Lab.md",
     "⭕️ June 16 - Presentation Night.md",
     "Backlog/⚖️ Anatomy of an Internet Argument.md",
     "⭕️ The September Event.md",
@@ -210,7 +212,6 @@
     "index.md",
     "Backlog/⭕️ Move or Die Lawsuit.md",
     "Backlog/⭕️ ORI 2.0.md",
-    "Backlog/⭕️ Prosocial Engineering Lab.md",
     "🎓 ORI Entry Point.md",
     "🍺 Cup.md",
     "⭕️ KayOS.md",
