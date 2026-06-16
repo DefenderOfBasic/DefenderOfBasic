@@ -8,5 +8,5 @@ This can launch with A/B/U book (https://github.com/DefenderOfBasic/A-B-U-book) 
 
 ---
 
-⭐️ Benj Isaac EV grant application + Vasco 
+
 

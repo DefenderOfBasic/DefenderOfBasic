@@ -4,7 +4,7 @@
 - "Defender, are you Okay?"
 
 - moots.fyi + stanford lab 
-- New website 
+- New website (last psyop.com)
 
 ---
 
