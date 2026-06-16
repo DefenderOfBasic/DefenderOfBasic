@@ -26,6 +26,9 @@ https://x.com/nosilverv
 https://x.com/suntzugi
 https://substack.com/@suntzugi
 
+- Ben G
+https://github.com/Shadow-Rebbe/Shadow-Rebbe
+
 - Professor Fnord
 https://github.com/Ialdabaoth/Ialdabaoth
 
