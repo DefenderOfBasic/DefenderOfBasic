@@ -3,6 +3,9 @@
 https://x.com/calculastrology
 https://github.com/Benjamin-Isaac-B
 
+- Ben G
+https://github.com/Shadow-Rebbe/Shadow-Rebbe
+
 - Raphael 
 https://github.com/RAPHIHELL/Raphihell
 
@@ -26,8 +29,7 @@ https://x.com/nosilverv
 https://x.com/suntzugi
 https://substack.com/@suntzugi
 
-- Ben G
-https://github.com/Shadow-Rebbe/Shadow-Rebbe
+
 
 - Professor Fnord
 https://github.com/Ialdabaoth/Ialdabaoth
