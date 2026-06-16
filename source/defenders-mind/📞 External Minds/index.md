@@ -30,7 +30,6 @@ https://x.com/suntzugi
 https://substack.com/@suntzugi
 
 
-
 - Professor Fnord
 https://github.com/Ialdabaoth/Ialdabaoth
 
