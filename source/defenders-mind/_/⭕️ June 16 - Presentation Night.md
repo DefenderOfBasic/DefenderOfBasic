@@ -11,11 +11,11 @@ _this month's theme: 🪞 Reflection 🪞_
 
 
 
+TODO:
 
+- upload video?
+- Write up the Gimme Coffee story?
 
-
-⚖️ Omar 
-- 
 
 
 
