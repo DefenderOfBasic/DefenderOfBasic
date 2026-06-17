@@ -1,3 +1,10 @@
+TODO:
+
+- upload video?
+- Write up the Gimme Coffee story?
+
+----
+
 <span><b>Pres Night - Tuesday, June 16th @ 7pm, at Liquid State</b></span>
 _this month's theme: 🪞 Reflection 🪞_
 
@@ -11,10 +18,7 @@ _this month's theme: 🪞 Reflection 🪞_
 
 
 
-TODO:
 
-- upload video?
-- Write up the Gimme Coffee story?
 
 
 
