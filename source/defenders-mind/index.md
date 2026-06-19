@@ -5,10 +5,3 @@ This blog reflects who & what is "currently on my mind". Forked from the [ORI Pu
 
 ---
 
-> What is the overall goal, of these influence operations?
-
-OR
-
-> What SHOULD the overall goal of influence operations in general be?
-
-"what does a CLEAN influence operation look like?"
