@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️ Defender Substack.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "✍️ Defender Substack"
+              "title": "index"
             }
           }
         ],
@@ -199,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "e7443510ce303f24",
   "lastOpenFiles": [
-    "Prosocial Engineering/Influencer Network.md",
     "Prosocial Engineering/Territories.md",
+    "Prosocial Engineering/Influencer Network.md",
     "⭕️ The September Event.md",
     "Prosocial Engineering",
     "📞 External Minds/index.md",
