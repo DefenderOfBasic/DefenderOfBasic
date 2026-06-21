@@ -7,10 +7,11 @@ This blog reflects who & what is "currently on my mind". Forked from the [ORI Pu
 
 `rock` always beats `scissors`
 
-`good` alwabeats `evil`
+`good` always beats `evil`
 
-`coordinated evil` beats `good`
+`coordinated evil` always beats `good`
 
-`coordinated good` beats `coordinated evil`
+`coordinated good` always beats `coordinated evil`
 
-`good` beats `coordinated `
+### does `coordinated good` always beat `good` ?
+
