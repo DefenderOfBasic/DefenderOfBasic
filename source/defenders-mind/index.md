@@ -5,13 +5,4 @@ This blog reflects who & what is "currently on my mind". Forked from the [ORI Pu
 
 ---
 
-`rock` always beats `scissors`
-
-`good` always beats `evil`
-
-`coordinated evil` always beats `good`
-
-`coordinated good` always beats `coordinated evil`
-
-### does `coordinated good` always beat `good` ?
 
