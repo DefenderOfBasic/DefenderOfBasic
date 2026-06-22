@@ -1,5 +1,5 @@
 
-Currently on a $7k per month contract from "Commenta Projects" that funds my open source social engineering work. 
+Currently on a $7k per month contract from "Commenta Projects" that funds the documentation of my open source social engineering work. 
 
 Additionally I have a budget of $1k - $5k per month to invest in early stage projects or people.
 
