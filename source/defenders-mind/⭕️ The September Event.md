@@ -16,11 +16,13 @@ People I want to contact for early buy in
 ----
 TODO
 
-- Make netwar-con repo slightly more minimal
-- Update lastpsyop.com, should have better event description and staff
+- Make netwar-con repo README slightly more minimal
+- Update lastpsyop.com, should have better event description and list of staff
 - Update luma page, should have better event description
 - Write executive pitch to Kanro
 	- to EtymologyNerd
 - Email the Distribution Hall coordinator / event organizer 
 - Fill out Prosocial Engineering's GitHub 
-	- Task some people with building the tech for the event
+	- Task some people with building mapping tech for the event
+- Last Psyop discord can start to become a "meme mapping" observatory
+- Prep for call with Pigeon tonight 

@@ -63,8 +63,7 @@
               "title": "🍺 Cup"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,8 +212,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4969d7c69b52f87",
+  "active": "d9817bb9cd7172bc",
   "lastOpenFiles": [
+    "🍺 Cup.md",
     "⭕️ The September Event.md",
     "🛳️ KayOS.md",
     "index.md",
@@ -226,7 +226,6 @@
     "📞 External Minds/⬅️ Analogue.md",
     "_/⭕️ June 16 - Presentation Night.md",
     "✍️ Defender Substack.md",
-    "🍺 Cup.md",
     "🎓 ORI Entry Point.md",
     "Backlog/⭕️ Prosocial Engineering Lab.md",
     "Backlog/⭕️ ORI 2.0.md",
