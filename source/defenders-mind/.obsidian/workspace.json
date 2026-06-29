@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog/A-B-U Book.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A-B-U Book"
+              "title": "index"
             }
           }
         ]
@@ -172,13 +172,13 @@
   },
   "active": "d9817bb9cd7172bc",
   "lastOpenFiles": [
-    "_/🎓 ORI Entry Point.md",
+    "🛳️ KayOS.md",
     "Backlog/A-B-U Book.md",
+    "_/🎓 ORI Entry Point.md",
     "Backlog/⭕️ Prosocial Engineering Lab.md",
     "Backlog/⚖️ Anatomy of an Internet Argument.md",
     "index.md",
     "⚠️ The September Event.md",
-    "🛳️ KayOS.md",
     "📞 External Minds/index.md",
     "Prosocial Engineering.md",
     "🍺 Cup.md",
