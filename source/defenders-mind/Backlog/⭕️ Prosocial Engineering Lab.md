@@ -1,7 +1,7 @@
 https://prosocialengineering.org/
 
 
-- [[⭕️ The September Event]]
+- [[⚠️ The September Event]]
 - The Ithaca Social Engineering project
 	- Document "Gimme Coffee" story 
 	- "Jungle" psyop 
