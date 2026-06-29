@@ -2,5 +2,4 @@ My highest A that I can communicate to the widest B floor is probably ["what is 
 
 See: https://github.com/OmarShehata/OmarShehata#omar-shehatas-ori-desk
 
-https://openresearchinstitute.org/actual.html 
 
