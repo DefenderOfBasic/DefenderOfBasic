@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_/🎓 ORI Entry Point.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "🎓 ORI Entry Point"
             }
           }
         ]
@@ -172,12 +172,12 @@
   },
   "active": "d9817bb9cd7172bc",
   "lastOpenFiles": [
+    "index.md",
     "🛳️ KayOS.md",
     "Backlog/A-B-U Book.md",
     "_/🎓 ORI Entry Point.md",
     "Backlog/⭕️ Prosocial Engineering Lab.md",
     "Backlog/⚖️ Anatomy of an Internet Argument.md",
-    "index.md",
     "⚠️ The September Event.md",
     "📞 External Minds/index.md",
     "Prosocial Engineering.md",

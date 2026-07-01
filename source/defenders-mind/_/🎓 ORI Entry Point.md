@@ -3,3 +3,9 @@ My highest A that I can communicate to the widest B floor is probably ["what is 
 See: https://github.com/OmarShehata/OmarShehata#omar-shehatas-ori-desk
 
 
+
+----
+
+
+### I used to think a successful business was a useful product or service
+
