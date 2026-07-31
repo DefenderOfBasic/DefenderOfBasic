@@ -1,3 +1,4 @@
+r/nerdfighters is his territory 
 
 "On Hank admitting he used ChatGPT for his latest video."
 
