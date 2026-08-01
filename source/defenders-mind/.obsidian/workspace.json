@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leverage.md",
+                "file": "Known Operators/Aella.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leverage"
+              "title": "Aella"
             }
           }
         ],
@@ -229,8 +229,8 @@
   },
   "active": "cb8bccf11a2614dd",
   "lastOpenFiles": [
-    "Territories/index.md",
     "Leverage.md",
+    "Territories/index.md",
     "Known Operators/Hank Green.md",
     "Known Operators/Aella.md",
     "📙 Documented Psyops.md",
