@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📙 Documented Psyops.md",
+                "file": "Territories/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📙 Documented Psyops"
+              "title": "index"
             }
           }
         ],
@@ -215,15 +215,15 @@
   },
   "active": "85a8b5f8e773a039",
   "lastOpenFiles": [
+    "Known Operators/Hank Green.md",
+    "Known Operators/Aella.md",
+    "Territories/index.md",
+    "📙 Documented Psyops.md",
     "🛳️ KayOS.md",
     "index.md",
     "Legalist call.md",
-    "Territories/index.md",
-    "Known Operators/Aella.md",
     "Territories",
-    "Known Operators/Hank Green.md",
     "Known Operators",
-    "📙 Documented Psyops.md",
     "What is a contract?.md",
     "_/🎓 ORI Entry Point.md",
     "Backlog/A-B-U Book.md",
