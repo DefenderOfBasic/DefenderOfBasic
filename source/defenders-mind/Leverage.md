@@ -1,0 +1,1 @@
+- live player list safe to publish? 
